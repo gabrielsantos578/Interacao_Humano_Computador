@@ -1,0 +1,118 @@
+.e36_6130 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:360px;
+	height:640px;
+	position:absolute;
+}
+.e60_21 { 
+	width:300px;
+	height:400px;
+	position:absolute;
+	left:30px;
+	top:85px;
+}
+.e442_310 { 
+	width:150px;
+	height:40px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/image_63.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e442_311 { 
+	width:300px;
+	height:400px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+	background-image:url(images/rectangle_58.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e442_312 { 
+	width:150px;
+	height:40px;
+	position:absolute;
+	left:150px;
+	top:0px;
+	background-image:url(images/image_62.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e442_333 { 
+	width:217px;
+	height:194px;
+	position:absolute;
+	left:42px;
+	top:110px;
+	background-image:url(images/image_85.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e442_313 { 
+	width:360px;
+	height:640px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e442_314 { 
+	width:360px;
+	height:40px;
+	position:absolute;
+	left:0px;
+	top:600px;
+}
+.e442_315 { 
+	background-image:linear-gradient(0deg, rgba(255, 0, 168.30000668764114, 1) 0%,rgba(142.80000060796738, 0, 255, 1) 25.52083432674408%,rgba(0, 132.599995136261, 255, 1) 59.89583134651184%,rgba(0, 224.39999878406525, 255, 1) 88.54166865348816%,rgba(0, 255, 239.69999939203262, 1) 100%) ;
+	width:360px;
+	height:40px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e442_316 { 
+	width:360px;
+	height:77.5px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e442_317 { 
+	width:360px;
+	height:77.5px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/image_60.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e442_318 { 
+	width:25px;
+	height:25px;
+	position:absolute;
+	left:20px;
+	top:15px;
+}
+.e442_319 { 
+	width:25px;
+	height:25px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/image_68.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.link-div a {
+	display: block;
+	width: 100%;
+	height: 100%;
+}

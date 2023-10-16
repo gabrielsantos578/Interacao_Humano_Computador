@@ -1,134 +1,51 @@
-.36_5770 { 
-	overflow:hidden;
-}.e36_5770 { 
+.e36_5777 { 
 	background-color:rgba(255, 255, 255, 1);
 	width:360px;
 	height:640px;
 	position:absolute;
-}.e36_5908 { 
-	color:rgba(0, 0, 0, 1);
-	width:300px;
-	height:18px;
+}
+.e450_1202 { 
+	width:269px;
+	height:566px;
 	position:absolute;
-	left:30px;
-	top:250px;
-	font-family:Inter;
-	text-align:center;
-	font-size:15px;
-	letter-spacing:0;
-}.e423_3507 { 
-	width:360px;
-	height:640px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	background-image:url(images/image_40.png);
+	left:45px;
+	top:53px;
+	background-image:url(images/image_202.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e36_5848 { 
-	width:150px;
-	height:20px;
-	position:absolute;
-	left:130px;
-	top:510px;
-}.e36_5849 { 
-	transform: rotate(-180deg);
+}
+.e450_1204 { 
 	width:20px;
 	height:20px;
 	position:absolute;
-	left:150px;
-	top:20px;
-}.e36_5850 { 
-	background-color:rgba(0, 0, 0, 1);
-	width:9.5px;
-	height:16.66666603088379px;
-	position:absolute;
-	left:0.5px;
-	top:1.3333740234375px;
-}.e36_5851 { 
-	width:100px;
-	height:10px;
-	position:absolute;
-	left:0px;
-	top:5px;
-}.e36_5852 { 
-	border-radius:500px;
-	background-image:linear-gradient(0deg, rgba(231.62500709295273, 231.62500709295273, 231.62500709295273, 1) 0%,rgba(6.375000094994903, 6.375000094994903, 6.375000094994903, 0.5) 42.70833432674408%,rgba(0, 0, 0, 0.30000001192092896) 82.29166865348816%,rgba(0, 0, 0, 0.699999988079071) 100%) ;
-	width:10px;
-	height:10px;
-	position:absolute;
-	left:60px;
-	top:0px;
-}.e36_5853 { 
-	border-radius:500px;
-	background-image:linear-gradient(0deg, rgba(231.62500709295273, 231.62500709295273, 231.62500709295273, 1) 0%,rgba(6.375000094994903, 6.375000094994903, 6.375000094994903, 0.5) 42.70833432674408%,rgba(0, 0, 0, 0.30000001192092896) 82.29166865348816%,rgba(0, 0, 0, 0.699999988079071) 100%) ;
-	width:10px;
-	height:10px;
-	position:absolute;
-	left:0px;
-	top:0px;
-}.e36_5854 { 
-	border-radius:500px;
-	background-image:linear-gradient(0deg, rgba(0, 255, 193.7999975681305, 1) 0%,rgba(0, 252.87500202655792, 70.80499783158302, 0.5) 64.0625%) ;
-	width:10px;
-	height:10px;
-	position:absolute;
-	left:30px;
-	top:0px;
-}.e36_5855 { 
-	border-radius:500px;
-	background-image:linear-gradient(0deg, rgba(231.62500709295273, 231.62500709295273, 231.62500709295273, 1) 0%,rgba(6.375000094994903, 6.375000094994903, 6.375000094994903, 0.5) 42.70833432674408%,rgba(0, 0, 0, 0.30000001192092896) 82.29166865348816%,rgba(0, 0, 0, 0.699999988079071) 100%) ;
-	width:10px;
-	height:10px;
-	position:absolute;
-	left:90px;
-	top:0px;
-}.e36_5904 { 
-	transform: rotate(3.0617613445625937e-22deg);
+	left:260px;
+	top:510px;
+	background-image:url(images/image_203.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e450_1206 { 
 	width:20px;
 	height:20px;
 	position:absolute;
 	left:80px;
 	top:510px;
-}.e36_5905 { 
-	background-color:rgba(0, 0, 0, 1);
-	width:9.5px;
-	height:16.66666603088379px;
-	position:absolute;
-	left:0.5px;
-	top:1.3333740234375px;
-}.e36_5833 { 
-	background-image:linear-gradient(0deg, rgba(35.700000151991844, 0, 255, 1) 0%,rgba(219.29998844861984, 0, 255, 1) 100%) ;
-	-webkit-background-clip:text;
-	-webkit-text-fill-color:transparent;
-	-moz-background-clip:text;
-	-moz-text-fill-color:transparent;
-	-ms-background-clip:text;
-	-ms-text-fill-color:transparent;
-	width:213px;
-	height:24px;
-	position:absolute;
-	left:73px;
-	top:50px;
-	font-family:Inter;
-	text-align:left;
-	font-size:20px;
-	letter-spacing:0;
-}.e36_5771 { 
+	background-image:url(images/image_204.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e423_3508 { 
 	width:360px;
-	height:39px;
+	height:640px;
 	position:absolute;
 	left:0px;
-	top:601px;
-}.e36_5776 { 
-	color:rgba(0, 0, 0, 1);
-	width:231px;
-	height:18px;
-	position:absolute;
-	left:59px;
 	top:0px;
-	font-family:Inter;
-	text-align:left;
-	font-size:15px;
-	letter-spacing:0;
-}
+	background-image:url(images/image_41.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.link-div a {
+	display: block;
+	width: 100%;
+	height: 100%;
+}

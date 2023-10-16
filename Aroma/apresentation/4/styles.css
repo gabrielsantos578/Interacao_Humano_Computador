@@ -1,134 +1,51 @@
-.36_5777 { 
-	overflow:hidden;
-}.e36_5777 { 
+.e36_5784 { 
 	background-color:rgba(255, 255, 255, 1);
 	width:360px;
 	height:640px;
 	position:absolute;
-}.e36_5910 { 
-	color:rgba(0, 0, 0, 1);
-	width:300px;
-	height:36px;
-	position:absolute;
-	left:30px;
-	top:250px;
-	font-family:Inter;
-	text-align:center;
-	font-size:15px;
-	letter-spacing:0;
-}.e423_3508 { 
-	width:360px;
-	height:640px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	background-image:url(images/image_41.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e36_5859 { 
-	width:150px;
-	height:20px;
-	position:absolute;
-	left:130px;
-	top:510px;
-}.e36_5860 { 
-	transform: rotate(-180deg);
+}
+.e450_1200 { 
 	width:20px;
 	height:20px;
 	position:absolute;
-	left:150px;
-	top:20px;
-}.e36_5861 { 
-	background-color:rgba(0, 0, 0, 1);
-	width:9.5px;
-	height:16.66666603088379px;
-	position:absolute;
-	left:0.5px;
-	top:1.3333740234375px;
-}.e36_5862 { 
-	width:100px;
-	height:10px;
-	position:absolute;
-	left:0px;
-	top:5px;
-}.e36_5863 { 
-	border-radius:500px;
-	background-image:linear-gradient(0deg, rgba(0, 255, 193.7999975681305, 1) 0%,rgba(0, 252.87500202655792, 70.80499783158302, 0.5) 64.0625%) ;
-	width:10px;
-	height:10px;
-	position:absolute;
-	left:60px;
-	top:0px;
-}.e36_5864 { 
-	border-radius:500px;
-	background-image:linear-gradient(0deg, rgba(231.62500709295273, 231.62500709295273, 231.62500709295273, 1) 0%,rgba(6.375000094994903, 6.375000094994903, 6.375000094994903, 0.5) 42.70833432674408%,rgba(0, 0, 0, 0.30000001192092896) 82.29166865348816%,rgba(0, 0, 0, 0.699999988079071) 100%) ;
-	width:10px;
-	height:10px;
-	position:absolute;
-	left:0px;
-	top:0px;
-}.e36_5865 { 
-	border-radius:500px;
-	background-image:linear-gradient(0deg, rgba(231.62500709295273, 231.62500709295273, 231.62500709295273, 1) 0%,rgba(6.375000094994903, 6.375000094994903, 6.375000094994903, 0.5) 42.70833432674408%,rgba(0, 0, 0, 0.30000001192092896) 82.29166865348816%,rgba(0, 0, 0, 0.699999988079071) 100%) ;
-	width:10px;
-	height:10px;
-	position:absolute;
-	left:30px;
-	top:0px;
-}.e36_5866 { 
-	border-radius:500px;
-	background-image:linear-gradient(0deg, rgba(231.62500709295273, 231.62500709295273, 231.62500709295273, 1) 0%,rgba(6.375000094994903, 6.375000094994903, 6.375000094994903, 0.5) 42.70833432674408%,rgba(0, 0, 0, 0.30000001192092896) 82.29166865348816%,rgba(0, 0, 0, 0.699999988079071) 100%) ;
-	width:10px;
-	height:10px;
-	position:absolute;
-	left:90px;
-	top:0px;
-}.e36_5901 { 
-	transform: rotate(3.0617613445625937e-22deg);
+	left:260px;
+	top:510px;
+	background-image:url(images/image_201.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e450_1196 { 
 	width:20px;
 	height:20px;
 	position:absolute;
 	left:80px;
 	top:510px;
-}.e36_5902 { 
-	background-color:rgba(0, 0, 0, 1);
-	width:9.5px;
-	height:16.66666603088379px;
-	position:absolute;
-	left:0.5px;
-	top:1.3333740234375px;
-}.e36_5834 { 
-	background-image:linear-gradient(0deg, rgba(35.700000151991844, 0, 255, 1) 0%,rgba(219.29998844861984, 0, 255, 1) 100%) ;
-	-webkit-background-clip:text;
-	-webkit-text-fill-color:transparent;
-	-moz-background-clip:text;
-	-moz-text-fill-color:transparent;
-	-ms-background-clip:text;
-	-ms-text-fill-color:transparent;
-	width:213px;
-	height:24px;
-	position:absolute;
-	left:73px;
-	top:50px;
-	font-family:Inter;
-	text-align:left;
-	font-size:20px;
-	letter-spacing:0;
-}.e36_5778 { 
+	background-image:url(images/image_200.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e450_1194 { 
 	width:360px;
-	height:39px;
+	height:587px;
 	position:absolute;
 	left:0px;
-	top:601px;
-}.e36_5783 { 
-	color:rgba(0, 0, 0, 1);
-	width:231px;
-	height:18px;
+	top:53px;
+	background-image:url(images/image_199.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e423_3509 { 
+	width:360px;
+	height:640px;
 	position:absolute;
-	left:59px;
+	left:0px;
 	top:0px;
-	font-family:Inter;
-	text-align:left;
-	font-size:15px;
-	letter-spacing:0;
-}
+	background-image:url(images/image_42.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.link-div a {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
