@@ -373,7 +373,7 @@
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-.link-div a {
+a {
 	display: block;
 	width: 100%;
 	height: 100%;
