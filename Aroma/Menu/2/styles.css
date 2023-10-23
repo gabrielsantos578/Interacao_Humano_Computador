@@ -4,56 +4,6 @@
 	height:640px;
 	position:absolute;
 }
-.e450_1270 { 
-	width:300px;
-	height:400px;
-	position:absolute;
-	left:30px;
-	top:86px;
-	background-image:url(images/image_218.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
-.e448_1140 { 
-	width:15px;
-	height:15.5px;
-	position:absolute;
-	left:290px;
-	top:162px;
-	background-image:url(images/image_177.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
-.e448_1116 { 
-	width:15px;
-	height:15px;
-	position:absolute;
-	left:290px;
-	top:298px;
-	background-image:url(images/image_165.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
-.e448_1118 { 
-	width:15px;
-	height:15px;
-	position:absolute;
-	left:290px;
-	top:348px;
-	background-image:url(images/image_166.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
-.e448_1120 { 
-	width:15px;
-	height:15px;
-	position:absolute;
-	left:290px;
-	top:398px;
-	background-image:url(images/image_167.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
 .e448_952 { 
 	width:360px;
 	height:640px;
@@ -110,6 +60,56 @@
 	left:315px;
 	top:15px;
 	background-image:url(images/image_131.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e450_1270 { 
+	width:300px;
+	height:400px;
+	position:absolute;
+	left:30px;
+	top:86px;
+	background-image:url(images/image_218.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e448_1140 { 
+	width:15px;
+	height:15.5px;
+	position:absolute;
+	left:290px;
+	top:162px;
+	background-image:url(images/image_177.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e448_1116 { 
+	width:15px;
+	height:15px;
+	position:absolute;
+	left:290px;
+	top:298px;
+	background-image:url(images/image_165.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e448_1118 { 
+	width:15px;
+	height:15px;
+	position:absolute;
+	left:290px;
+	top:348px;
+	background-image:url(images/image_166.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e448_1120 { 
+	width:15px;
+	height:15px;
+	position:absolute;
+	left:290px;
+	top:398px;
+	background-image:url(images/image_167.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }

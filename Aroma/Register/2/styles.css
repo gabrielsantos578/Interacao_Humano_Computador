@@ -5,119 +5,11 @@
 	position:absolute;
 }
 .e60_18 { 
-	width:300px;
-	height:400px;
-	position:absolute;
-	left:30px;
-	top:85px;
-}
-.e442_195 { 
-	width:150px;
-	height:40px;
+	width:360px;
+	height:640px;
 	position:absolute;
 	left:0px;
 	top:0px;
-	background-image:url(images/image_63.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
-.e442_196 { 
-	width:300px;
-	height:400px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	border-top-left-radius:30px;
-	border-top-right-radius:30px;
-	border-bottom-left-radius:30px;
-	border-bottom-right-radius:30px;
-	background-image:url(images/rectangle_58.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
-.e442_197 { 
-	width:150px;
-	height:40px;
-	position:absolute;
-	left:150px;
-	top:0px;
-	background-image:url(images/image_62.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
-.e442_198 { 
-	width:100px;
-	height:100px;
-	position:absolute;
-	left:100px;
-	top:60px;
-	background-image:url(images/image_61.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
-.e36_5385 { 
-	width:273px;
-	height:30px;
-	position:absolute;
-	left:13px;
-	top:313px;
-}
-.e442_321 { 
-	width:273px;
-	height:30px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	background-image:url(images/image_79.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
-.e442_323 { 
-	width:15px;
-	height:15px;
-	position:absolute;
-	left:247px;
-	top:6px;
-	background-image:url(images/image_80.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
-.e36_5439 { 
-	width:273px;
-	height:113px;
-	position:absolute;
-	left:13px;
-	top:180px;
-}
-.e442_331 { 
-	width:273px;
-	height:113px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	background-image:url(images/image_84.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
-.e442_327 { 
-	width:15px;
-	height:15px;
-	position:absolute;
-	left:247px;
-	top:7px;
-	background-image:url(images/image_82.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
-.e442_329 { 
-	width:86px;
-	height:20px;
-	position:absolute;
-	left:94px;
-	top:83px;
-	background-image:url(images/image_83.png);
-	background-repeat:no-repeat;
-	background-size:cover;
 }
 .e442_199 { 
 	width:360px;
@@ -172,6 +64,114 @@
 	left:0px;
 	top:0px;
 	background-image:url(images/image_68.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e442_196 { 
+	width:300px;
+	height:400px;
+	position:absolute;
+	left:30px;
+	top:85px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+	background-image:url(images/rectangle_58.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e442_195 { 
+	width:149px;
+	height:39px;
+	position:absolute;
+	left:31px;
+	top:86px;
+	background-image:url(images/image_63.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e442_197 { 
+	width:150px;
+	height:40px;
+	position:absolute;
+	left:180px;
+	top:85px;
+	background-image:url(images/image_62.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e442_198 { 
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:130px;
+	top:145px;
+	background-image:url(images/image_61.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e36_5385 { 
+	width:273px;
+	height:30px;
+	position:absolute;
+	left:43px;
+	top:398px;
+}
+.e442_321 { 
+	width:273px;
+	height:30px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/image_79.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e442_323 { 
+	width:15px;
+	height:15px;
+	position:absolute;
+	left:247px;
+	top:6px;
+	background-image:url(images/image_80.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e36_5439 { 
+	width:273px;
+	height:113px;
+	position:absolute;
+	left:43px;
+	top:265px;
+}
+.e442_331 { 
+	width:273px;
+	height:113px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/image_84.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e442_327 { 
+	width:15px;
+	height:15px;
+	position:absolute;
+	left:247px;
+	top:7px;
+	background-image:url(images/image_82.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e442_329 { 
+	width:86px;
+	height:20px;
+	position:absolute;
+	left:94px;
+	top:83px;
+	background-image:url(images/image_83.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }
